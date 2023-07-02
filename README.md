@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://github.com/gabinfinity">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá+👋;Me+chamo+Gabriel+Manzoni;Tenho+23+anos...;Muito+prazer!&center=true&size=25">
   </a>
 </h1>
